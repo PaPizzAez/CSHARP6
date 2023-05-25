@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b83ceed2-680c-4614-972f-9a6c550e4e8c": {
+      "ProjectGuid": "b83ceed2-680c-4614-972f-9a6c550e4e8c",
+      "DisplayName": "C_LAB6",
+      "ColorIndex": 0
+    },
+    "baa1ae01-ff6c-42b3-966c-0928a2861dd1": {
+      "ProjectGuid": "baa1ae01-ff6c-42b3-966c-0928a2861dd1",
+      "DisplayName": "C_LAB6_SERVER",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
